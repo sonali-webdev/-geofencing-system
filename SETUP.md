@@ -8,7 +8,7 @@
 - **Container**: Docker + Docker Compose
 
 ## 🌐 Deployed URLs
-- **Frontend**: https://YOUR-APP.vercel.app
+- **Frontend**: https://geofencing-system-xi.vercel.app
 - **Backend**: https://geofencing-backend-sx5z.onrender.com
 - **Docker Hub**: https://hub.docker.com/r/sonaligupta12/geofencing-backend
 
